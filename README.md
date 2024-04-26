@@ -12,13 +12,12 @@ Using LangChain framework, build a RAG system that can utilize the power of LLM 
 <img width="1183" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/c67b2d9f-b98a-4718-8f87-3f2d2a13799d">
 
 
-# Question - what are compressive memory systems? how are they more scalable and efficient than the attention mechanism for extremely long sequences?
+# Question - From the paper, what are compressive memory systems? how are they more scalable and efficient than the attention mechanism for extremely long sequences?
 
-<img width="1190" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/197bb2fa-5f13-4f2b-a2f8-0bce9b5414f5">
+<img width="1291" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/85ce3a23-65a7-4b26-92ec-6039623ea4b0">
 
-<img width="1187" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/b0d9c51b-61a0-418e-8be8-0e97ee561636">
 
-<img width="1197" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/05628c5c-3d45-49ce-97a9-960d8b1a4cdf">
+<img width="1328" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/0608d903-9fa7-49dc-9a2d-e22aca38efc8">
 
 
 <img width="1349" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/53622658-cb0d-4ac1-b933-a39dd9de7762">
