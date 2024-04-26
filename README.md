@@ -26,24 +26,22 @@ Access the Research paper @ https://arxiv.org/pdf/2404.07143
 <img width="1328" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/0608d903-9fa7-49dc-9a2d-e22aca38efc8">
 
 
-# Explain LLMs
+# Q: Based on the paper, Please explain LLMs
 
 
-<img width="1349" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/53622658-cb0d-4ac1-b933-a39dd9de7762">
+<img width="1301" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/957d4d3b-c647-49a8-8cf2-eb3985831189">
 
 
-<img width="1193" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/c307a975-d908-426e-88ef-5cd54a3e77fc">
+<img width="1289" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/df041092-b7cb-486f-9ea7-55c0bb9b513e">
 
 
-# Explain how to scale the Transformers based on LLMs
+# Q: Based on the paper, please explain how to scale the Transformers based on LLMs
 
 
-<img width="1186" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/f396badd-9048-41c6-a353-a670384c9421">
+<img width="1292" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/99b2fbaf-e48f-468f-83be-bfd669bc04e2">
 
 
-<img width="1189" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/8ad3684e-e483-4ea8-916d-211c9f4b1577">
+<img width="1187" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/2d8d5147-3540-4aea-b7b0-32dd6e598488">
 
 
-<img width="1188" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/eeafcb57-fe96-4915-9d29-969dab0b2cbe">
-
-
+<img width="1224" alt="image" src="https://github.com/RachanaVishwa/RAGsystempdf/assets/161026961/981c93e6-4e43-479a-8a96-0d99ea036127">
